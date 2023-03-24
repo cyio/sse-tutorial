@@ -2,6 +2,7 @@
 
 ```sh
 npm i
+# sse
 node index.js
 ```
 
